@@ -1,0 +1,27 @@
+{
+  "name": "GloryToRome",
+  "version": "1.0.0",
+  "description": "Digital Peer-to-Peer version of GloryToRome",
+  "main": "gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-eslint": "0.0.5",
+    "grunt-contrib-watch": "^1.0.0",
+    "gruntify-eslint": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node --harmony $(which grunt)",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamronbatman/GloryToRome"
+  },
+  "author": "Kamron Batman, Terry Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamronbatman/GloryToRome/issues"
+  },
+  "homepage": "https://github.com/kamronbatman/GloryToRome"
+}
