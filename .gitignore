@@ -34,3 +34,6 @@ node_modules
 
 # Operating System
 **/.DS_Store
+
+# Source
+app/src/bundle/bundle.js
